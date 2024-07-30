@@ -1,1 +1,3 @@
-console.log("Hello world")
+const sonam = require("./second");
+
+console.log("Hello world", sonam)
